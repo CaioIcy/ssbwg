@@ -1,0 +1,3 @@
+name: ssbwg
+runtime: nodejs
+description: SSB WireGuard

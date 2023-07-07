@@ -1,0 +1,6 @@
+config:
+  gcp:region: southamerica-east1
+  gcp:zone: southamerica-east1-a
+  ssbwg:instanceTag: wireguard
+  ssbwg:machineType: e2-micro
+  ssbwg:osImage: debian-11

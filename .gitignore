@@ -1,0 +1,9 @@
+/bin/
+/node_modules/
+
+.gcloud/*
+!.gcloud/.gitkeep
+
+.local/
+
+.DS_Store
